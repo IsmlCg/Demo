@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <header></header>
-        <main></main>
+        
         <footer></footer>
     </body>
 </html>
